@@ -29,7 +29,7 @@ prodigyopt
 dadaptation
 wandb
 httpx
-xformers
+xformers==0.0.26.post1
 # bitsandbytes
 --index-url https://jihulab.com/api/v4/projects/140618/packages/pypi/simple
 bitsandbytes
